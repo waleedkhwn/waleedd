@@ -1,0 +1,4 @@
+b = "My name is khan"
+b1 = b.split("  ")
+print(b1)
+
