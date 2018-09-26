@@ -6,14 +6,14 @@ for i in range(1,101):
 
 Split words
 
-name = "alizain aziz"
+name = "waleed khan"
 a = name[1:5]
 print(a)
 
-name = "alizain aziz"
+name = "waleed khan"
 a = name[::5]
 print(a)
 
-name = "alizain aziz"
+name = "waleed khan"
 a = name[1:10:5]
 print(a)
